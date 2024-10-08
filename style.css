@@ -2,10 +2,6 @@
 body { font-family: Sofadi One; font-family: Sofadi One;
     background-color: rgb(37, 123, 180);
 }
-footer {
-    background-color: black;
-    color: white;
-}
 footer {    height:2rem;
     background-color: black;
     color: white;
@@ -16,4 +12,10 @@ footer {    height:2rem;
 footer p{        margin-top: 0,5rem;
     text-align: center;
     font-size: 0.6rem;
+    margin-top: 0.5rem;
+}
+.cartao {
+    margin: 1rem 1rem;
+    background-color: aqua;
+    height: 20rem;
 }
